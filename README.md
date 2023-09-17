@@ -5,10 +5,10 @@ link: https://bryanyoo5433.pythonanywhere.com/
 Our inspiration for Lip Coders came from when we were brainstorming about ideas surrounding color detection using image processing. From there, we got inspired to focus specifically on people's lip shades because all of us use some type of lip product with different shades for our unique lips. However, how can we figure out the best shade to use? The answer is Lip Coders.
 
 ## What it does
-Lip Coders is a website that uses the webcam to allow users to tap on their lips to get their lip shade and generate recommendations for lip products for their lip shade ("Getting you the perfect lipstick shade to hack into the world!"). 
+Lip Coders is a website that allows users to get their lip shade, by clicking on their lips in the webcam, and generates lip product recommendations for their lip shade ("Getting you the perfect lipstick shade to hack into the world!"). 
 
 ## How we built it
-We built the front end using HTML, CSS, and Canva, and we built the back end using Python, JavaScript, Flask, JSON, and Open AI for the backend.
+We built the front end using HTML, CSS, and Canva, and we used Python, JavaScript, Flask, JSON, and Open AI for the backend.
 
 ## Challenges we ran into
 Some challenges we ran into were choosing a project idea, implementing Python and OpenCV into HTML, implementing Open AI, and connecting the front-end and back-end.
