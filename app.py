@@ -3,7 +3,7 @@ import openai
 
 app = Flask(__name__, template_folder='templates')
 
-openai.api_key = "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"
+openai.api_key = "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"
 
 received_rgb = None
 

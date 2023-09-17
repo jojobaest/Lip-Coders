@@ -60,7 +60,7 @@ video.addEventListener('play', function () {
 
 //Code below is the openai part
 document.addEventListener('DOMContentLoaded', function () {
-    document.getElementById('submitButton').addEventListener('click', submitPrompt);
+    document.getElementById('button').addEventListener('click', submitPrompt);
 });
 
 function submitPrompt() {
